@@ -1,6 +1,8 @@
 # PROTOTIPAGEM PARA O APRENDIZADO DE QUÍMICA:
 Tabela Periódica Acessível com Arduino
 
+# TCC - Pós Graduação em Tecnologias na Educação - IFSP/Capivari
+
 
 # RESUMO
 
